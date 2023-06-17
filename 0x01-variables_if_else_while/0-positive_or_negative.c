@@ -6,8 +6,7 @@
 
 /**
  * main - prints if number is positive, zero o negative
- * return: always (succes)
- * 
+ * return: always (succes) 
  */
 int main(void)
 {
