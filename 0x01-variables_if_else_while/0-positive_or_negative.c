@@ -5,11 +5,12 @@
 #include <time.h>
 
 /**
- * main - prints if number is positive, zero o negative
- * return: always (succes) 
- */
+ *main - prints if number is positive, zero o negative
+ *Return: always (succes) 
+*/
 int main(void)
 {
+
 	int n;
 
 	srand(time(0));
