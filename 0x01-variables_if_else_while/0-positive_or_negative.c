@@ -15,7 +15,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-	prantif("%d is positive\n", n);
+	printif("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
